@@ -4,7 +4,7 @@ Struggling with downloading audio from YouTube? Don’t sweat it! This YouTube A
 
 ## Overview
 
-YouTube Audio Downloader is a Python-based tool designed to help users download audio from YouTube videos. It utilizes the yt-dlp library for downloading audio in .m4a format and features a user-friendly GUI built with Tkinter, Allowing users to easily input video URLs and save the audio files.
+YouTube Audio Downloader is a Python-based tool designed to help users download audio from YouTube videos. It utilizes the yt-dlp library for downloading audio in .m4a format and features a user-friendly GUI built with Tkinter, allowing users to easily input video URLs and save the audio files.
 
 ## Features
 

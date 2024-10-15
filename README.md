@@ -30,7 +30,7 @@ git clone https://github.com/ohnogaurav/YTAudioDownloader.git
 ````bash
 cd YTAudioDownloader
 ````
-3. Install the required packages (if not already installed):
+3. Install the Required packages (if not already installed):
 ````bash
 pip install yt-dlp
 ````
